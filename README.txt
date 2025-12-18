@@ -91,8 +91,9 @@ Future Enhancements
 
 Author
 ------
-Project developed for academic and learning purposes.
+Project developed for academic and learning purposes by Bukke Sunitha.
 
 License
 -------
+
 This project is free to use for educational and non-commercial purposes.
